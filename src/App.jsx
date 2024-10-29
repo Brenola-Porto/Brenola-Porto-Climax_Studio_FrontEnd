@@ -60,7 +60,7 @@ function App() {
             </div>
 
             <div id="img3" class="image-box">
-              <img src="/assets/images/forma-home.jpg" alt="Formaturas"></img>
+              <img src="/assets/images/casamentohome.jpg" alt="Formaturas"></img>
                 <div class="overlay-text">Casamentos</div>
             </div>
           </div>
