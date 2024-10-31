@@ -1,0 +1,9 @@
+@font-face {
+    font-family: italianno;
+    src: url(./assets/fonts/Italianno-Regular.ttf);
+}
+
+@font-face {
+    font-family: arima;
+    src: url(./assets/fonts/Arima/Arima-VariableFont_wght.ttf);
+}
